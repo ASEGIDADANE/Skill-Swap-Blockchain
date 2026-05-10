@@ -39,5 +39,14 @@ mapping(uint256 => Listing) public listings;
 
 ## Testing plan
 
-1. Remix VM: compile → deploy → smoke test when functions exist.
+See [testing.md](testing.md) for the full Remix checklist.
+
+1. Remix VM: compile → deploy → run all 9 VM tests.
 2. Sepolia: deploy → one `createListing` tx → Etherscan screenshot.
+
+## Implementation status
+
+- [x] Struct, state, events, `onlyListingOwner`
+- [x] `createListing`, `getListing`, `cancelListing`
+- [ ] Sepolia address in README
+- [ ] Per-member course screenshots
