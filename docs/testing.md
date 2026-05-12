@@ -34,4 +34,8 @@ Use the **Remix JavaScript VM** first, then repeat on **Sepolia** for deployment
 
 | Tester | GitHub | Date | Network |
 |--------|--------|------|---------|
-| | | | VM / Sepolia |
+| Asegid | @ASEGIDADANE | 2026-05-10 | VM (run in Remix) |
+| Member 2 | @username | | |
+| Member 3 | @username | | |
+| Member 4 | @username | | |
+| Member 5 | @username | | |

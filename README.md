@@ -66,11 +66,11 @@ Full checklist: [docs/testing.md](docs/testing.md)
 | Phase | Status |
 |-------|--------|
 | 0 — Repo setup | Done |
-| 1 — Course materials & screenshots | Team: add per member |
+| 1 — Course materials & screenshots | Started — add PNGs per member |
 | 2 — State, events, modifier | Done |
 | 3 — `createListing`, `getListing`, `cancelListing` | Done |
 | 4 — Remix testing | Use [docs/testing.md](docs/testing.md) |
-| 5 — Sepolia deploy | Paste address above + screenshot |
+| 5 — Sepolia deploy | Guide: [docs/sepolia-deploy.md](docs/sepolia-deploy.md) |
 | 6 — Final submission audit | README + all folders filled |
 
 ## License
